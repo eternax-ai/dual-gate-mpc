@@ -1,0 +1,17 @@
+[package]
+name = "dual-gate-demo"
+version = "0.1.0"
+edition = "2021"
+description = "Minimal dual-gate custody protocol: threshold authorization with authenticated member contributions"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+ark-ec = "0.5"
+ark-ff = "0.5"
+ark-secp256k1 = "0.5"
+ed25519-dalek = { version = "2", features = ["rand_core"] }
+rand = "0.8"
+sha2 = "0.10"
+
+[dev-dependencies]
+rand = "0.8"
