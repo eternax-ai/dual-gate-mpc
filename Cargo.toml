@@ -3,6 +3,7 @@ name = "dual-gate-demo"
 version = "0.1.0"
 edition = "2021"
 description = "Minimal dual-gate custody protocol: threshold authorization with authenticated member contributions"
+authors = ["Dariia Porechna <dariia.p@eternax.ai>"]
 license = "MIT OR Apache-2.0"
 
 [dependencies]

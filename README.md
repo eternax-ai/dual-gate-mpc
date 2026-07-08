@@ -104,4 +104,6 @@ Gate 1 uses Ed25519 as a concrete stand-in. In production, substitute SLH-DSA (p
 
 ## License
 
-MIT OR Apache-2.0
+Licensed under either of [MIT](LICENSE-MIT) or [Apache License, Version 2.0](LICENSE-APACHE), at your option.
+
+Redistributions must retain the attribution in [NOTICE](NOTICE). If you use this software or the dual-gate protocol design in academic work, please cite the paper referenced in [CITATION.cff](CITATION.cff).

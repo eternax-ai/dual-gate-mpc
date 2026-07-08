@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper (preferred-citation)."
+title: "dual-gate-mpc"
+type: software
+authors:
+  - family-names: Porechna
+    given-names: Dariia
+    orcid: "https://orcid.org/0009-0009-8834-4652"
+    affiliation: "EternaX Labs"
+license: "MIT OR Apache-2.0"
+preferred-citation:
+  type: unpublished
+  title: "Threshold Authorization Without Threshold Signatures: Signature-Scheme-Agnostic MPC Custody"
+  authors:
+    - family-names: Porechna
+      given-names: Dariia
+      orcid: "https://orcid.org/0009-0009-8834-4652"
+      affiliation: "EternaX Labs"
+  year: 2026
+  notes: "arXiv preprint forthcoming; identifier will be added upon publication."

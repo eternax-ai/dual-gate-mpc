@@ -1,0 +1,13 @@
+dual-gate-mpc
+Copyright (c) 2026 EternaX Labs
+
+This software is the reference implementation of the dual-gate custody
+protocol designed by Dariia Porechna (EternaX Labs), described in:
+
+  Dariia Porechna. "Threshold Authorization Without Threshold Signatures:
+  Signature-Scheme-Agnostic MPC Custody." 2026.
+
+Redistributions of this software or derivative works must retain this
+notice, per the terms of the Apache License 2.0. If you use this software
+or the dual-gate protocol design in academic work, please cite the paper
+above (see CITATION.cff).
