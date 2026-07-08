@@ -10,7 +10,7 @@ authors:
 license: "MIT OR Apache-2.0"
 preferred-citation:
   type: unpublished
-  title: "Threshold Authorization Without Threshold Signatures: Signature-Scheme-Agnostic MPC Custody"
+  title: "Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody"
   authors:
     - family-names: Porechna
       given-names: Dariia
