@@ -4,6 +4,8 @@ A minimal reference implementation of the dual-gate custody protocol. The constr
 
 No novel cryptography is required. No dependency on any specific signature family.
 
+Reference implementation for the paper: Dariia Porechna, [Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody](https://arxiv.org/abs/2607.08226), arXiv:2607.08226, 2026.
+
 ## The problem
 
 MPC custody distributes a signing key so that no single compromise moves funds. For ECDSA this works via threshold signatures (CMP/GG, FROST). Hash-based post-quantum signatures (SPHINCS+/SLH-DSA) cannot be threshold-signed — there is no algebraic structure to distribute the signing computation.

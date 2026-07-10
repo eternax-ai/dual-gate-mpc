@@ -9,7 +9,7 @@ authors:
     affiliation: "EternaX Labs"
 license: "MIT OR Apache-2.0"
 preferred-citation:
-  type: unpublished
+  type: article
   title: "Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody"
   authors:
     - family-names: Porechna
@@ -17,4 +17,8 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0009-8834-4652"
       affiliation: "EternaX Labs"
   year: 2026
-  notes: "arXiv preprint forthcoming; identifier will be added upon publication."
+  doi: "10.48550/arXiv.2607.08226"
+  url: "https://arxiv.org/abs/2607.08226"
+  identifiers:
+    - type: other
+      value: "arXiv:2607.08226"

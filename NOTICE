@@ -5,7 +5,8 @@ This software is the reference implementation of the dual-gate custody
 protocol designed by Dariia Porechna (EternaX Labs), described in:
 
   Dariia Porechna. "Threshold Authorization Without Threshold Signatures:
-  Signature-Agnostic MPC Custody." 2026.
+  Signature-Agnostic MPC Custody." 2026. arXiv:2607.08226.
+  https://arxiv.org/abs/2607.08226
 
 Redistributions of this software or derivative works must retain this
 notice, per the terms of the Apache License 2.0. If you use this software
